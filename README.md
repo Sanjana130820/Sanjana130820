@@ -1,21 +1,27 @@
-# 👩‍💻 Sai Naga Sanjana Chippada
+<h1 align="center">Hi there 👋, I'm Sai Naga Sanjana Chippada</h1>
 
-🎓 Master's in Data Analytics at **San José State University** | Former Data Analyst at **Capgemini**  
-🔍 Actively seeking full-time opportunities in **Data Analytics**, **Data Engineering**, **AI/ML**, **Data Science**, and **Generative AI**. 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=435&lines=AI%2FML+Enthusiast+%7C+Data+Engineer+%7C+Analyst;Exploring+GenAI+%7C+LLMs+%7C+Data+Pipelines;Let%E2%80%99s+build+something+awesome+!" alt="Typing SVG" />
+</p>
 
 ---
 
-## 🙋‍♀️ About Me
+### 👩‍💻 About Me
 
-With a strong foundation in analytics, programming, and data-driven problem solving, I enjoy crafting smart and scalable solutions that bridge the gap between machine intelligence and real-world applications.
+I’m **Sai Naga Sanjana Chippada**, a passionate **AI/ML enthusiast** and driven data professional with a strong foundation across the data lifecycle — from engineering robust pipelines to deriving insights and building intelligent systems.
 
-I'm especially passionate about:
-- Building **end-to-end ML pipelines**
-- Working with **LLMs and multimodal models**
-- Engineering **cloud-native data systems**
-- Applying **deep learning** for computer vision and NLP
+Currently pursuing my **Master’s in Data Analytics at San José State University**, I bring hands-on experience in **Data Engineering, Data Analysis, and Machine Learning**. I’ve previously worked as a **Senior Analyst at Capgemini**, where I built scalable data workflows and analytics dashboards that drove business impact.
 
-I strive to build impactful products that are innovative, efficient, and human-centric.
+My areas of expertise span:
+
+- **Data Engineering**: Designing ETL pipelines, orchestrating workflows with Airflow, managing cloud data with **GCP** and **AWS**, and ensuring scalable, clean data for downstream use.
+- **Data Analysis & Business Intelligence**: Leveraging **SQL**, **Python**, and tools like **Tableau**, **Looker**, and **Power BI** to uncover trends and deliver actionable insights.
+- **Machine Learning & AI**: Developing predictive models, fine-tuning LLMs, and exploring the cutting edge of **Generative AI**, **LangChain**, and **OpenAI APIs** to solve real-world problems.
+- **Full-Stack Data Projects**: From raw data ingestion to final model deployment, I enjoy building end-to-end systems that merge engineering precision with AI innovation.
+
+🔍 I am continuously exploring advancements in **Deep Learning**, **Large Language Models**, and **Agentic RAG** systems — always curious about how to blend **intelligence**, **automation**, and **scalability** in data products.
+
+🎯 My goal is to contribute to impactful projects, collaborate with visionary teams, and build solutions that make data not just useful, but transformational.
 
 ---
 
