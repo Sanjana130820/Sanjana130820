@@ -61,29 +61,42 @@ My areas of expertise span:
 
 ## 🚀 Featured Projects
 
-### 🔹 [Agentic AI Travel Assistant with CrewAI](#)
+### 🔹 [Agentic AI Travel Assistant with CrewAI](https://github.com/Sanjana130820/Agentic-AI-Travel-Assistant-with-CrewAI)
 Built an autonomous planner using **CrewAI agents + GPT-4o-mini** that generates smart, culturally relevant trip itineraries.
 
-### 🔹 [Multimodal RAG System for PDF QA](#)  
+### 🔹 [Multimodal RAG System for PDF QA](https://github.com/Sanjana130820/MultiModal-Retrieval-Augmented-Generation-RAG-System)  
 Hybrid PDF QA with **image + text embeddings** and GPT-4o-mini using **Sentence Transformers** and **LangChain**.
 
-### 🔹 [Anime Image Generation using Stable Diffusion](#)  
+### 🔹 [Anime Image Generation using Stable Diffusion](https://github.com/Sanjana130820/Fine-Tuning-Stable-Diffusion-for-Anime-Image-Generation)  
 Fine-tuned **Stable Diffusion v1.5** on anime dataset with **LoRA** to generate high-quality prompt-based images.
 
-### 🔹 [Real-Time Stock Forecasting using Kafka + LSTM](#)  
+### 🔹 [Real-Time Stock Forecasting using Kafka + LSTM](https://github.com/Sanjana130820/Real-Time-Stock-Price-Prediction-Using-Big-Data-and-Machine-Learning)  
 Built a **big data pipeline** with Kafka, InfluxDB, Spark, and LSTM models for live stock prediction and Grafana dashboards.
 
-### 🔹 [Text-to-SQL Generator using LLMs](#)  
+### 🔹 [Text-to-SQL Generator using LLMs](https://github.com/Sanjana130820/Natural-Language-to-SQL-Generator)  
 Natural language to SQL interface using **fine-tuned LLM**, **Streamlit**, and **SQLite** with 91% accuracy.
 
-### 🔹 [Monet-to-Photo Style Transfer with CycleGAN](#)  
-Developed a PyTorch CycleGAN for **photo-realistic image transformation**, outperforming baseline models in FID/MiFID scores.
+### 🔹 [Monet-to-Photo Style Transfer with CycleGAN](https://github.com/Sanjana130820/Monet-to-Photo-Style-Transfer-with-CycleGAN)  
+Developed a PyTorch CycleGAN for **photo-realistic image transformation**, achieved strong FID and MiFID scores on custom datasets.
 
-### 🔹 [Yelp Sentiment Analysis with BiLSTM + Word2Vec](#)  
+### 🔹 [Yelp Sentiment Analysis with BiLSTM + Word2Vec](https://github.com/Sanjana130820/NLP-Sentiment-Analysis-on-Yelp-Dataset)  
 Trained BiLSTM and CNN models on Yelp data with custom Word2Vec embeddings. Achieved 93.2% classification accuracy.
 
-### 🔹 [Cloud ETL Pipeline for NY Times Data](#)  
+### 🔹 [CharGPT: Character-Level Transformer from Scratch](https://github.com/Sanjana130820/CharGPT-A-Character-Level-Transformer-Built-from-Scratch)  
+Implemented a GPT-like transformer model at character level using PyTorch from scratch, learning fundamentals of attention.
+
+### 🔹 [Generative AI Healthcare Agent](https://github.com/Sanjana130820/Generative-AI-Healthcare-Agent)  
+Built a **generative AI agent** for healthcare FAQs using RAG + LangChain + LLMs + Vector DB (FAISS).
+
+### 🔹 [Real-Time ODI Cricket Match Winner Predictor](https://github.com/Sanjana130820/Real-Time-ODI-Cricket-Match-Winner-Predictor)  
+Built a live ODI match outcome prediction system using SVM and Random Forest classifiers trained on historical match stats.
+
+### 🔹 [SmartPixel: Enhancing Image Quality with RCAN](https://github.com/Sanjana130820/SmartPixel-Enhancing-Image-Quality-with-RCAN)  
+Used **Residual Channel Attention Networks** to enhance image resolution. Trained on DIV2K dataset and benchmarked PSNR.
+
+### 🔹 [Cloud ETL Pipeline for NY Times Data](https://github.com/Sanjana130820/NYT-Cloud-Data-Engineering-Pipeline)  
 Designed a complete ETL process using **Airflow, BigQuery, DBT**, and visualized data insights in Power BI.
+
 
 ---
 
