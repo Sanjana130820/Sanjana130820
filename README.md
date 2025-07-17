@@ -1,8 +1,9 @@
 <h1 align="center">Hi there 👋, I'm Sai Naga Sanjana Chippada</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=435&lines=AI%2FML+Enthusiast+%7C+Data+Engineer+%7C+Analyst;Exploring+GenAI+%7C+LLMs+%7C+Data+Pipelines;Let%E2%80%99s+build+something+awesome+!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=550&lines=AI%2FML+Enthusiast+%7C+Data+Engineer+%7C+Data+Analyst;Exploring+GenAI+%7C+LLMs+%7C+Data+Pipelines;Let's+build+something+awesome!" alt="Typing SVG" />
 </p>
+
 
 ---
 
