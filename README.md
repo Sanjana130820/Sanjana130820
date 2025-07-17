@@ -21,37 +21,33 @@ I strive to build impactful products that are innovative, efficient, and human-c
 
 ## 🧰 Tech Stack
 
+### 🧑‍💻 Programming Languages
+`Python` `SQL` `JavaScript` `HTML` `CSS` `Java` `C` 
 
+### 📃 Databases & Data Warehousing
+`MySQL` `PostgreSQL` `Snowflake` `Redshift` `MongoDB`
 
-🧑‍💻 Programming Languages
+### ☁️ Data Engineering & Cloud Platforms
+`Apache Airflow` `GCP (BigQuery, Cloud Composer, Cloud Run)`  
+`AWS (S3, Glue, Redshift)` `Snowflake` `Hadoop` `Kafka` `PySpark` `Docker` `Kubernetes` `DBT` `Terraform`
 
-Python SQL JavaScript HTML CSS Java C
+### 📈 Data Analysis & Visualization
+`Pandas` `NumPy` `Matplotlib` `Seaborn` `Plotly`  
+`Power BI` `Tableau` `Looker Studio` `Grafana` 
 
-📊 Databases & Data Warehousing
+### 🤖 Machine Learning
+`Scikit-learn` `XGBoost` `k-Nearest Neighbors` `TF-IDF`  
+`Random Forest` `SVM` `K-Means` `Collaborative Filtering`  
+`Time Series Forecasting` `A/B Testing` `SageMaker` `MLflow`
 
-MySQL PostgreSQL Snowflake Redshift MongoDB
+### 🧠 Deep Learning & Generative AI
+`TensorFlow` `PyTorch` `Keras` `CNN` `LSTM` `RNN`  
+`LLMs` `NLP` `RAG` `LangChain` `LangGraph` `LangSmith`  
+`Stable Diffusion` `CycleGAN` `ChromaDB` `Pinecone` `Sentence Transformers` 
 
-☁️ Data Engineering & Cloud
-
-Apache Airflow GCP (BigQuery, Dataflow, Composer) AWS (S3, Glue, Redshift) Snowflake Hadoop Kafka PySpark Docker Kubernetes DBT
-
-📈 Analytics & Visualization
-
-Pandas NumPy Matplotlib Seaborn Plotly Power BI Tableau Looker Studio Grafana
-
-🤖 Machine Learning
-
-Scikit-learn XGBoost k-NN Random Forest TF-IDF Collaborative Filtering Clustering Time Series A/B Testing SageMaker MLflow
-
-🧠 Deep Learning & Generative AI
-
-PyTorch TensorFlow Keras CNN LSTM Stable Diffusion CycleGAN RAG LangChain NLTK LLMs NLP Sentence Transformers Pinecone ChromaDB
-
-🛠️ Tools & Frameworks
-
-FastAPI Flask Streamlit ReactJS Tailwind CSS LangGraph Git Jupyter VS Code Linux
-
-
+### 🗓️ Tools & Frameworks
+`FastAPI` `Flask` `ReactJS` `Streamlit` 
+`Git` `Jupyter Notebook` `VS Code` `Linux` `Conda` 
 
 ---
 
