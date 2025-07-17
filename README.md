@@ -21,29 +21,35 @@ I strive to build impactful products that are innovative, efficient, and human-c
 
 ## 🧰 Tech Stack
 
-### 🧑‍💻 Languages  
-`Python` `SQL` `JavaScript` `HTML` `CSS` `Java` `C`
 
-### ☁️ Data Engineering & Cloud  
-`Apache Airflow` `GCP (BigQuery, Dataflow, Composer)` `AWS (S3, Glue, Redshift)`  
-`Snowflake` `Hadoop` `Kafka` `PySpark` `Docker` `Kubernetes``DBT`
 
-### 📊 Libraries & Visualization  
-`Pandas` `NumPy` `Matplotlib` `Seaborn` `Plotly`  
-`Power BI` `Tableau` `Looker Studio` `Grafana`
+🧑‍💻 Programming Languages
 
-### 🤖 Machine Learning  
-`Scikit-learn` `XGBoost` `k-NN` `Random Forest`  
-`TF-IDF` `Collaborative Filtering` `Clustering` `Time Series`  `A/B Testing` `SageMaker` `MLflow`
+Python SQL JavaScript HTML CSS Java C
 
-### 🧠 Deep Learning & Generative AI  
-`PyTorch` `TensorFlow` `Keras` `CNN` `LSTM`  
-`Stable Diffusion` `CycleGAN` `RAG` `LangChain` `NLTK`
-`LLMs` `NLP` `Sentence Transformers` `Pinecone` `ChromaDB`
+📊 Databases & Data Warehousing
 
-### 🧪 Tools & Frameworks  
-`FastAPI` `Flask` `Streamlit` `ReactJS` `Tailwind CSS`  
-`LangGraph`  `Git` `Jupyter` `VS Code` `Linux`
+MySQL PostgreSQL Snowflake Redshift MongoDB
+
+☁️ Data Engineering & Cloud
+
+Apache Airflow GCP (BigQuery, Dataflow, Composer) AWS (S3, Glue, Redshift) Snowflake Hadoop Kafka PySpark Docker Kubernetes DBT
+
+📈 Analytics & Visualization
+
+Pandas NumPy Matplotlib Seaborn Plotly Power BI Tableau Looker Studio Grafana
+
+🤖 Machine Learning
+
+Scikit-learn XGBoost k-NN Random Forest TF-IDF Collaborative Filtering Clustering Time Series A/B Testing SageMaker MLflow
+
+🧠 Deep Learning & Generative AI
+
+PyTorch TensorFlow Keras CNN LSTM Stable Diffusion CycleGAN RAG LangChain NLTK LLMs NLP Sentence Transformers Pinecone ChromaDB
+
+🛠️ Tools & Frameworks
+
+FastAPI Flask Streamlit ReactJS Tailwind CSS LangGraph Git Jupyter VS Code Linux
 
 
 
