@@ -1,7 +1,7 @@
 # 👩‍💻 Sai Naga Sanjana Chippada
 
 🎓 Master's in Data Analytics at **San José State University** | Former Data Analyst at **Capgemini**  
-🔍 Actively seeking full-time opportunities in **Data Analytics**, **AI/ML**, **Data Science**, **Generative AI**, and **Data Engineering**
+🔍 Actively seeking full-time opportunities in **Data Analytics**, **Data Engineering**, **AI/ML**, **Data Science**, and **Generative AI**. 
 
 ---
 
