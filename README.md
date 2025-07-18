@@ -61,7 +61,7 @@ My areas of expertise span:
 
 ## 🚀 Featured Projects
 
-### 🔹 [Agentic AI Travel Assistant with CrewAI](https://github.com/Sanjana130820/Agentic-AI-Travel-Assistant-with-CrewAI)
+### 🔹 [Agentic AI Travel Assistant with CrewAI](https://github.com/Sanjana130820/Agentic-AI-Travel-Assistant-with-CrewAI)  
 Built an autonomous planner using **CrewAI agents + GPT-4o-mini** that generates smart, culturally relevant trip itineraries.
 
 ### 🔹 [Multimodal RAG System for PDF QA](https://github.com/Sanjana130820/MultiModal-Retrieval-Augmented-Generation-RAG-System)  
@@ -96,6 +96,13 @@ Used **Residual Channel Attention Networks** to enhance image resolution. Traine
 
 ### 🔹 [Cloud ETL Pipeline for NY Times Data](https://github.com/Sanjana130820/NYT-Cloud-Data-Engineering-Pipeline)  
 Designed a complete ETL process using **Airflow, BigQuery, DBT**, and visualized data insights in Power BI.
+
+### 🔹 [Bilingual Transformer for English↔French Translation](https://github.com/Sanjana130820/Bilingual-Transformer)  
+Built a **Seq2Seq Transformer** for bidirectional English-French translation with evaluation through BLEU and ROUGE scores.
+
+### 🔹 [SJSU MCP Leave Manager](https://github.com/Sanjana130820/MCP-Leave-Manager)  
+Created an automated leave management system for SJSU using MCP protocol. Handles leave applications, holiday constraints, and balance checks.
+
 
 
 ---
